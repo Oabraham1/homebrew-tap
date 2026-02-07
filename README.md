@@ -6,17 +6,17 @@ Custom Homebrew formulas by Ojima Abraham.
 
 ```bash
 brew tap oabraham1/tap
-brew install mcp-guard
+brew install mcp-scanner
 ```
 
 Or directly:
 
 ```bash
-brew install oabraham1/tap/mcp-guard
+brew install oabraham1/tap/mcp-scanner
 ```
 
 ## Available Formulas
 
 | Formula | Description |
 |---------|-------------|
-| mcp-guard | Security scanner and proxy for MCP servers |
+| mcp-scanner | Security scanner and proxy for MCP servers |
